@@ -15,8 +15,7 @@ In this section you will learn the basics of Git and how you can upload your fut
 | Coursework | [Setting Up Git]() | hours | |
 | Coursework | [Introduction to Git](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git) | | |
 | Coursework | [Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics) | | |
-| Project | [Project: Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics) | | |
-
+| Coursework | [Project: Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics) | | |
 
 ## The Front End
 
@@ -30,12 +29,12 @@ In this section you'll spend a good deal of time getting familiar with the major
 | HTML | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | HTML in Detail Module|
 | HTML | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 1.25 hours | HTML Module |
 | HTML | [Web Development - HTML - The Structure of any Website - FULL](https://www.udemy.com/web-dev-html/) | 3.5 hours | |
-| CSS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | CSS Module | |
+| CSS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) |  | CSS Module |
 | CSS | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | CSS in Detail Module |
 | CSS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 1.75 hours | CSS Module |
 | CSS | [All The Way CSS - The Complete CSS Adventure](https://www.udemy.com/all-the-way-css-the-complete-css-adventure/) | |
 | Coursework | [Developer Tools](https://www.theodinproject.com/courses/web-development-101/lessons/developer-tools) | | |
-| Project | [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) | | |
+| Coursework | [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) | | |
 |SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
 | Project | [Create Interactive Portfolio Grid using CSS and HTML](https://www.udemy.com/create-interactive-portfolio-grid-using-css-and-html/) | 1 hour | |
 
@@ -46,33 +45,27 @@ Here we finally dig in to JavaScript and learn how to make the web dynamic.
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Coursework | [Fundamentals Part 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1) | | |
+| Project | Custom Modals | .75 hours | **Modules:** <br>[Custom Alert Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/-RLE2Q7OzME) <br> [Custom Confirm Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/TCL90kPID0A) <br> [Custom Prompt Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/qPXBjCgktbk) <br> [Click Outside Close Menu Box JavaScript CSS HTML Tutorial](https://youtu.be/DxWqBRqAGLo)|
 | Coursework | [Fundamentals Part 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2) | | |
+| Project | Loops & Numbers  | .25 hours | **Modules:** <br> [JavaScript Tutorial - Dice Roll Programming For Web Browser Games](https://youtu.be/vjPIDX-itvc) <br> [JavaScript Dice Rolling program using random numbers and loops](https://youtu.be/t3aUHw9jCDw) |
 | JS | [JavaScript Console Object Ultimate Guide](https://www.udemy.com/javascript-console-object-ultimate-guide/) | 1 hour | |
 | Coursework | [Developer Tools 2](https://www.theodinproject.com/courses/web-development-101/lessons/developer-tools-2) | | |
 | Coursework | [Fundamentals Part 3](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3) | | |
-| Project | [Project: Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors) | | |
+| Coursework | [Project: Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors) | | |
 | Coursework | [Clean Code](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code) | | |
 | Coursework | [Fundamentals Part 4](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4) | | |
-| Coursework | [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) | | |
-| JS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 3.75 hours | JS Module <br> DOM Module <br> Jquery Module |
-| JS | [GraphQL](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | 1.5 hours | |
-| Project | [JavaScript Number Guessing Game - JavaScript DOM](https://www.udemy.com/javascript-number-game/) | 1 hour | |
-| Project | [Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project) | | |
-| Coursework | [Fundamentals Part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5) | | 
-|
-| Project | [Let's JavaScript a a To-Do List App!](https://www.udemy.com/lets-javascript-beginners-coding-projects-in-javascript/) | 2 hours | |
-| Project | [Let's JavaScript a a Pomodoro App!](https://www.udemy.com/lets-javascript-coding-projects/) | 2.5 hours | |
-| Project | [Project: Calculator](https://www.theodinproject.com/courses/web-development-101/lessons/calculator) | | |
-| Project | [Let's JavaScript a a Calculator App!](https://www.udemy.com/lets-javascript-beginners-coding-projects/) | 2 hours | |
-| JS | [Mighty JavaScript (Advanced)](https://www.udemy.com/intermediate-to-advanced-javascript-developer/) | 3 hours | |
-| JS | [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/advanced-and-object-oriented-javascript/)| 5.5 hours | |
-
-| Reference | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | Javascript Module| | |
-| Reference | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | Javascript in Detail Module| | |
+| Project | [Memory Game Programming JavaScript Tutorial](https://youtu.be/c_ohDPWmsM0) | .25 hours | |
+| Project | [Javascript Tutorial: Make a quiz](https://youtu.be/C7NsIRhoWuE)  | .5 hours |  |
+| Project | Working with files | .25 hours | **Modules:** <br> [Partial Print Document JavaScript Tutorial HTML div Content](https://youtu.be/UJAwNkhbYWM) <br> [Javascript Tutorial - Custom File Upload Button | HTML + CSS](https://youtu.be/T3PDgtliezo) |
+| Project | [Learn JavaScript By Building A Bookmarker Application](https://youtu.be/DIVfDZZeGxM) | .75 hours |  |
 
 ### Front End Portfolio Projects
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
+| Project | [Let's JavaScript a a To-Do List App!](https://www.udemy.com/lets-javascript-beginners-coding-projects-in-javascript/) | 2 hours | |
+| Project | [Let's JavaScript a a Pomodoro App!](https://www.udemy.com/lets-javascript-coding-projects/) | 2.5 hours | |
+| Coursework | [Project: Calculator](https://www.theodinproject.com/courses/web-development-101/lessons/calculator) | | |
+| Project | [Let's JavaScript a a Calculator App!](https://www.udemy.com/lets-javascript-beginners-coding-projects/) | 2 hours | |
 | Project | [Cloning Amazon, Netflix & Spotify](https://www.udemy.com/learn-html-css-clone-amazon-netflix-spotify/) | |
 | Project | [Chrome Extensions : Develop 5 chrome extensions from scratch](https://www.udemy.com/chrome-extension-dev/) | |
 | Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | |
@@ -83,10 +76,30 @@ Here we finally dig in to JavaScript and learn how to make the web dynamic.
 | Project | [Create a HTML5 Game from Scratch](https://www.udemy.com/create-a-html5-game-from-scratch/) | 5 hours | |
 | Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | |
 
-### More Frontend Gloryhole Bullhit
+### More Frontend Gloryhole Bullshit
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
+| JS | Working with Audio | 1 hour |  | **Modules:** <br> [Make Music With Javascript Tutorial](https://youtu.be/8T4SCksjrQ4) <br> [Make a fun animated audio player with JavaScript and CSS3](https://youtu.be/ZTBekkqA2rM) |
+| JS | Working with Video | 1 hour |  | **Modules:** <br> [Part 1](https://youtu.be/V8_wEZD160g) <br> [Part 2](https://youtu.be/Nnlb6vwszl4) <br> [Part 3](https://youtu.be/KhvOFA9v_-Y) <br> [Part 4](https://youtu.be/2AI_gfMumrw) <br> [Part 5](https://youtu.be/BuaIDNu_pPg) <br> [Part 6](https://youtu.be/rIX7xSBPK08) |
+| Coursework | [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) | | |
+| JS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 3.75 hours | JS Module <br> DOM Module <br> Jquery Module |
+| Project | Fucking with the user, part 1 | .5 hours | **Modules:** <br> [Read Mouse Coordinates Position X and Y JavaScript Tutorial HTML CSS](https://youtu.be/8E6YJdSee9o) <br> [1. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/RPMVIbAuZHg) <br> [2. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/5V5Zi8Qgwwk) <br> [Javascript Tutorial : Textarea Counting and Limiting](https://youtu.be/12P1HoTvsvU) |
+| Project |  Fucking with the user, part 2 | .5 hours | **Modules:** <br> [How to Build a Javascript WYSIWYG Rich Text HTML Editor Textarea Replacement for Web Site Part 1](https://youtu.be/SSAQK4Nwkm4) <br> [How to Build a Javascript WYSIWYG Rich Text HTML Editor Textarea Replacement for Web Site Part 2](https://youtu.be/mysAB7NAjDk) |
+| Project | [JavaScript Number Guessing Game - JavaScript DOM](https://www.udemy.com/javascript-number-game/) | 1 hour | |
+| Coursework | [Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project) | | |
+
+
+### Even More Frontend JS Stupidity
+| Topic | Course | Duration | Notes | 
+| ------ | ------- | ------ | ------- |
+| Coursework | [Fundamentals Part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5) | | |
+| Project | Learn to code an API in JavaScript | 1.75 hours |  | **Modules:** <br> [Part 1](https://youtu.be/0SiC1DClaFg) <br> [Part 2](https://youtu.be/HsKN5wBODe0) <br> [Part 3](https://youtu.be/33SM6fQkVoM) |
+| JS | [GraphQL](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | 1.5 hours | |
+| JS | [Mighty JavaScript (Advanced)](https://www.udemy.com/intermediate-to-advanced-javascript-developer/) | 3 hours | |
+| JS | [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/advanced-and-object-oriented-javascript/)| 5.5 hours | |
+| JS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | | Javascript Module |
+| JS | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | Javascript in Detail Module |
 | CSS | [Mastering Basic CSS Selectors](https://www.udemy.com/mastering-basic-css-selectors/) | 3 hours | |
 | CSS | [Mastering CSS 3.0 Selectors](https://www.udemy.com/css3-selectors/) | 2 hours | |
 | CSS | [CSS Image filters - The modern web images color manipulation](https://www.udemy.com/super-awesome-images-with-css-image-filters/) | 1.5 hours | |
@@ -100,7 +113,7 @@ Here we finally dig in to JavaScript and learn how to make the web dynamic.
 
 ## The Back End I
 
-Here you'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. You'll get to take a crack at Ruby, the sublimely awesome language that runs Ruby on Rails.
+Here you'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. 
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
@@ -115,25 +128,26 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in phpMyAdmin Module Module |
 | MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in PHP Module |
 | MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in PHP Module |
+| Project | [Generating PDF files with PHP](https://www.youtube.com/watch?v=MCKNMbLhlgA&list=PLfdtiltiRHWHl7VjZKor3q70FpXotfith&index=2&t=12s) | .75 hours | |
 | Project | [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/) | | |
-| JQuery | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)  | | JQuery Module |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential JQuery & AJAX Module |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | JQuery effects & AJAX interaction |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Online version & Security Considerations |
-| Project | [Building a Chat System in AJAX & PHP](https://www.udemy.com/chat-system-in-php-ajax/) | | |
 
 ### The Back End II: The Return Home
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| Project | [Project: Your First Rails Application]() |  | |
+| JQuery | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)  | | JQuery Module |
+| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential JQuery & AJAX Module |
+| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | JQuery effects & AJAX interaction |
+| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Online version & Security Considerations |
+| Project | [Building a Chat System in AJAX & PHP](https://www.udemy.com/chat-system-in-php-ajax/) | | |
 | Coursework | [Ruby Basics](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-basics) | | |
-| Project | [Project: Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) | | |
+| Coursework | [Project: Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) | | |
 | Scripting | [Master Regular Expressions from scratch - All languages](https://www.udemy.com/master-regular-expressions-from-scratch/) | | |
 | Python | [Learn Python Programming for Absolute Beginners](https://www.udemy.com/learn-python-programming/) | 4 hours | |
 | Project | [Python 3 in 100 Minutes](https://www.udemy.com/python-3-in-100-minutes/) | 4.25 hours | |
 | Project | [Python 3: Building amazing Calculator and other GUI projects](https://www.udemy.com/python-learning/) | 3.25 hours | |
 | Python | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 23.25 hours | **Modules:** <br>Intro to Python <br> Python Flow Control <br> Python Lists & Ranges <br>  Python Dictionaries <br> Python Input & Output <br> Methods and Functions in Python <br> Object Oriented Programming <br> Statistic Projects <br> Bayesian Projects <br> Machine Learning <br> Deep Learning Projects <br> Machine Learning AI <br> Amazon Data Science |
+| Lab | [Python PDF](https://www.youtube.com/watch?v=Ei0fL6j8DtI&list=PLaL2yxczKLcCoCXGAPcPU0rlTON4aO6BE&index=2&t=5s) | 3 hours |  |
 | Project | [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/) | 2.5 hours | |
 | Project | [Artificial Intelligence Bootcamp 44 projects Ivy League pro](https://www.udemy.com/artificial/) | 13.5 hours | |
 | Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | | |
@@ -145,7 +159,7 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| Project | [Introduction to Frameworks](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-frameworks) |  | |
+| Coursework | [Introduction to Frameworks](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-frameworks) |  | |
 | CSS | [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) | | |
 | Bootstrap | [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/) | | |
 | Bootstrap | [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/) | | |
@@ -156,7 +170,7 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 | Coursework | [Ruby on Rails Basics](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails-basics) |  | |
 | Rails | [Ruby on Rails a Beginners Guide](https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/) | | |
 | Rails | [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/learn-rails/)| | | |
-| Project | [Project: Ruby on Rails](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) |  | |
+| Coursework | [Project: Ruby on Rails](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) |  | |
 
 ### Web Development Frameworks II: 'De ja vu II'
 
@@ -193,4 +207,6 @@ Now that you've had a healthy taste of all the major components in a web applica
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| Coursework | [Conclusion](https://www.theodinproject.com/courses/web-development-101/lessons/conclusion-web-development-101) | hours | |
+| Coursework | [Conclusion](https://www.theodinproject.com/courses/web-development-101/lessons/conclusion-web-development-101) | | |
+| Electron | [An Intro To Electron - Desktop Apps with JavaScript](https://youtu.be/mr9Mtm_TRpw) | .5 hours |  |
+

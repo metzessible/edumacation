@@ -4,18 +4,18 @@
 
 In this section you will learn the basics of Git and how you can upload your future projects to Github so you can share your work and collaborate with others on projects easily. We'll learn some basic stuff and install some stuff.
 
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
-| Coursework | [How this Course Will Work](https://www.theodinproject.com/courses/web-development-101/lessons/how-this-course-will-work) | hours | |
-| Coursework | [Introduction to Web Development](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-web-development) | hours | |
-| Coursework | [Gearing Up](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) | hours | |
-| Coursework | [How Does the Web Work?](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work) | hours | |
-| Coursework | [Command Line Basics]() | hours | |
-| Coursework | [Installing Ruby]() | hours | |
-| Coursework | [Setting Up Git]() | hours | |
-| Coursework | [Introduction to Git](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git) | | |
-| Coursework | [Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics) | | |
-| Coursework | [Project: Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics) | | |
+| Topic | Course |
+| ------ | ------- |
+| Coursework | [How this Course Will Work](https://www.theodinproject.com/courses/web-development-101/lessons/how-this-course-will-work) |
+| Coursework | [Introduction to Web Development](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-web-development) |
+| Coursework | [Gearing Up](https://www.theodinproject.com/courses/web-development-101/lessons/gearing-up) |
+| Coursework | [How Does the Web Work?](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work) |
+| Coursework | [Command Line Basics]() |
+| Coursework | [Installing Ruby]() |
+| Coursework | [Setting Up Git]() |
+| Coursework | [Introduction to Git](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git) |
+| Coursework | [Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics) |
+| Coursework | [Project: Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics) |
 
 ## The Front End
 
@@ -35,9 +35,19 @@ In this section you'll spend a good deal of time getting familiar with the major
 | CSS | [All The Way CSS - The Complete CSS Adventure](https://www.udemy.com/all-the-way-css-the-complete-css-adventure/) | |
 | Coursework | [Developer Tools](https://www.theodinproject.com/courses/web-development-101/lessons/developer-tools) | | |
 | Coursework | [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) | | |
-|SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
 | Project | [Create Interactive Portfolio Grid using CSS and HTML](https://www.udemy.com/create-interactive-portfolio-grid-using-css-and-html/) | 1 hour | |
 
+## Interactivity
+| Topic | Course | Duration | Notes | 
+| ------ | ------- | ------ | ------- |
+|SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
+| SVG | A beginners guide to SVG | .5 hours | **Modules:** <br> [Part 1](https://youtu.be/ZJSCl6XEdP8) <br> [Part 2](https://youtu.be/9Y4P3FvZ5bg) |
+| SVG | SVG Animation I | | **Modules:** <br> [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://youtu.be/XBdbgD2BaEI) <br> [SVG Stroke Animation | HTML & CSS](https://youtu.be/y0Ic8QcvyK8) <br> [SVG line drawing animation](https://www.youtube.com/watch?v=k-SI1xHN0x8&list=RDQMOq0n4w7tt1Q&index=6) <br> [SVG Stroke Animation With CSS](https://youtu.be/wRqZSna9_Aw) <br> [Advanced svg path progress animation with Moveit](https://youtu.be/kCze-4ovte8) |
+| SVG | SVG Animation II | | **Modules:** <br> [SVG Tutorial: With CSS Animation](https://youtu.be/IM8eTD01UE8) <br> [Building an SVG Animation from Start to Finish](https://youtu.be/qA2DqKIjZ5I) <br> [MorphSVGPlugin: Advanced control over SVG shape tweens and morphs](https://youtu.be/Uxa9sdaeyKM) <br> [Create an Interactive Splat Animation in SVG](https://youtu.be/O6dc-sJm0Ho) <br> [SVG “Drawing On” Animation - CSS Experiments](https://youtu.be/YcM4bRxtLcs) <br> [Interactive SVG Animation with Greensock](https://youtu.be/YcM4bRxtLcs) |
+| SVG | | | **Modules:** <br> []() <br> []() |
+| SVG | | | **Modules:** <br> []() <br> []() |
+| SVG | []() | | |
+<br> []()
 ### Moar Frontend Shit
 
 Here we finally dig in to JavaScript and learn how to make the web dynamic.

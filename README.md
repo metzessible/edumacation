@@ -1,5 +1,9 @@
 # animated-journey
 
+In total, there are 245.75 hours of non-coursework hours. This equates to roughly 10 hours of non-coursework hours per week over the next 6 months. The bulk of the non-project course hours are fairly redundant. They're mostly intended to provide an option to learn from, to possibly go over something that hasn't been explained before, or to provide another way of explaining a topic.
+
+I just want us to try to get as far as humanly possible and have a dope portfolio to show for it.
+
 ## The Basics
 
 In this section you will learn the basics of Git and how you can upload your future projects to Github so you can share your work and collaborate with others on projects easily. We'll learn some basic stuff and install some stuff.

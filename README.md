@@ -137,7 +137,7 @@ Here we'll learn about the back end, where we'll demystify what goes on behind t
 
 ## Frameworks I
 
-**Total Non-Coursework Time: hrs**
+**Total Non-Coursework Time: 59.5 hrs**
 
 You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-sounding development frameworks. In this section, you'll learn what a framework is, why we use them, and get acquainted with the ones we'll be covering in future courses.
 
@@ -159,6 +159,8 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 
 ## Frameworks II
 
+**Total Non-Coursework Time: 28.5 hrs**
+
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | TypeScript | [Getting Started with TypeScript // A Javascript Compiler](https://www.udemy.com/getting-started-with-typescript/) | 1 hour | |
@@ -174,8 +176,10 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 | Node | [Intro to Node JS & Express](https://www.udemy.com/intro-to-node-js-express/) | 2.25 hours | |
 | Node | [MongooseJS Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/) | .75 hour | |
 
-## Pair Programming
+## Pair Programming & Endgame
 So far, you've probably been working by yourself. Now it's time to learn how to team up with another person anywhere in the world.
+
+**Total Non-Coursework Time: 5.5 hrs**
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
@@ -185,13 +189,6 @@ So far, you've probably been working by yourself. Now it's time to learn how to 
 | Coursework | [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming) | | |
 | Coursework | [Preparing to Remote Pair](https://www.theodinproject.com/courses/web-development-101/lessons/preparing-to-remote-pair) | | |
 | Coursework | [Project: Pairing Project](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project) 
-
-## Tying it All Together
-
-Now that you've had a healthy taste of all the major components in a web application, we'll take a step back and remember where they all fit into the bigger picture.
-
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
 | Coursework | [Conclusion](https://www.theodinproject.com/courses/web-development-101/lessons/conclusion-web-development-101) | | |
 | Electron | [An Intro To Electron - Desktop Apps with JavaScript](https://youtu.be/mr9Mtm_TRpw) | .5 hours |  |
 

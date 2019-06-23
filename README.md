@@ -19,7 +19,9 @@ In this section you will learn the basics of Git and how you can upload your fut
 
 ## Front End I
 
-In this section you'll spend a good deal of time getting familiar with the major client-side (browser-based) languages like HTML, CSS, and Javascript. You'll get to build a webpage with HTML/CSS and learn some programming fundamentals with Javascript.
+In the next two sections we'll spend a good deal of time getting familiar with the major client-side (browser-based) languages like HTML, CSS, and Javascript. We'll get to build a webpage with HTML/CSS and learn some programming fundamentals with Javascript.
+
+**Total Non-Coursework Time: 19 hrs**
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
@@ -48,6 +50,9 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Project | [Learn JavaScript By Building A Bookmarker Application](https://youtu.be/DIVfDZZeGxM) | .75 hours |  |
 
 ## Front End II
+
+**Total Non-Coursework Time: 56.25 hrs**
+
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Project | [Let's JavaScript a a To-Do List App!](https://www.udemy.com/lets-javascript-beginners-coding-projects-in-javascript/) | 2 hours | |
@@ -79,6 +84,9 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Project | [Creating Secure Registration Form Using HTML, CSS And JS](https://www.udemy.com/creating-secure-registration-form-using-html-css-and-js/) | 3 hours | |
 
 ## Interactivity
+
+**Total Non-Coursework Time: 14.75 hrs**
+
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
@@ -93,11 +101,13 @@ In this section you'll spend a good deal of time getting familiar with the major
 
 ## Back End I
 
-Here you'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. 
+**Total Non-Coursework Time: 15.5 hrs**
+
+Here we'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. 
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| Coursework | [Introduction to the Back End](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-the-back-end) | hours | |
+| Coursework | [Introduction to the Back End](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-the-back-end) | | |
 | Wordpress | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | .75 hours | Wordpress Module |
 | Wordpress | [PHP For WordPress Development](https://www.udemy.com/php-for-wordpress-development/) | 1 hour | |
 | PHP | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | 2 hours | PHP Module |
@@ -108,6 +118,8 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Project | [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/) | 1.5 hours | |
 
 ## Back End II
+
+**Total Non-Coursework Time: 46.75 hrs**
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
@@ -122,17 +134,19 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Python | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 23.25 hours | **Modules:** <br>Intro to Python <br> Python Flow Control <br> Python Lists & Ranges <br>  Python Dictionaries <br> Python Input & Output <br> Methods and Functions in Python <br> Object Oriented Programming <br> Statistic Projects <br> Bayesian Projects <br> Machine Learning <br> Deep Learning Projects <br> Machine Learning AI <br> Amazon Data Science |
 | Lab | [Python PDF](https://www.youtube.com/watch?v=Ei0fL6j8DtI&list=PLaL2yxczKLcCoCXGAPcPU0rlTON4aO6BE&index=2&t=5s) | 3 hours |  |
 | Project | [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/) | 2.5 hours | |
-| Project | [Artificial Intelligence Bootcamp 44 projects Ivy League pro](https://www.udemy.com/artificial/) | 13.5 hours | |
-| Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | 5.5 hours | |
-| Project | [Try Django 1.9: Build a Blog](https://www.udemy.com/try-django/) | 20 hours | |
 
 ## Frameworks I
+
+**Total Non-Coursework Time: hrs**
 
 You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-sounding development frameworks. In this section, you'll learn what a framework is, why we use them, and get acquainted with the ones we'll be covering in future courses.
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Coursework | [Introduction to Frameworks](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-frameworks) |  | |
+| Project | [Artificial Intelligence Bootcamp 44 projects Ivy League pro](https://www.udemy.com/artificial/) | 13.5 hours | |
+| Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | 5.5 hours | |
+| Project | [Try Django 1.9: Build a Blog](https://www.udemy.com/try-django/) | 20 hours | |
 | CSS | [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) | 1.5 hours | |
 | Bootstrap | [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/) | 5 hours | |
 | Project | [Code a Coming Soon Landing Page in Bootstrap 4](https://www.udemy.com/code-a-coming-soon-landing-page-in-bootstrap-4/) | 2 hours | |

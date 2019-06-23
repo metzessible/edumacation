@@ -17,7 +17,7 @@ In this section you will learn the basics of Git and how you can upload your fut
 | Coursework | [Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics) |
 | Coursework | [Project: Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics) |
 
-## The Front End
+## Front End I
 
 In this section you'll spend a good deal of time getting familiar with the major client-side (browser-based) languages like HTML, CSS, and Javascript. You'll get to build a webpage with HTML/CSS and learn some programming fundamentals with Javascript.
 
@@ -25,35 +25,11 @@ In this section you'll spend a good deal of time getting familiar with the major
 | ------ | ------- | ------ | ------- |
 | Coursework | [Introduction to the Front End](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-the-front-end) | | |
 | Coursework | [HTML and CSS Basics](https://www.theodinproject.com/courses/web-development-101/lessons/html-and-css-basics) | | |
-| HTML | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | | HTML Module |
-| HTML | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | HTML in Detail Module|
-| HTML | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 1.25 hours | HTML Module |
-| HTML | [Web Development - HTML - The Structure of any Website - FULL](https://www.udemy.com/web-dev-html/) | 3.5 hours | |
-| CSS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) |  | CSS Module |
-| CSS | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | CSS in Detail Module |
-| CSS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 1.75 hours | CSS Module |
-| CSS | [All The Way CSS - The Complete CSS Adventure](https://www.udemy.com/all-the-way-css-the-complete-css-adventure/) | |
+| HTML | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | 1.25 hours | HTML Module |
+| CSS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) |  3 hours | CSS Module |
 | Coursework | [Developer Tools](https://www.theodinproject.com/courses/web-development-101/lessons/developer-tools) | | |
 | Coursework | [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) | | |
 | Project | [Create Interactive Portfolio Grid using CSS and HTML](https://www.udemy.com/create-interactive-portfolio-grid-using-css-and-html/) | 1 hour | |
-
-## Interactivity
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
-|SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
-| SVG | A beginners guide to SVG | .5 hours | **Modules:** <br> [Part 1](https://youtu.be/ZJSCl6XEdP8) <br> [Part 2](https://youtu.be/9Y4P3FvZ5bg) |
-| SVG | SVG Animation I | | **Modules:** <br> [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://youtu.be/XBdbgD2BaEI) <br> [SVG Stroke Animation | HTML & CSS](https://youtu.be/y0Ic8QcvyK8) <br> [SVG line drawing animation](https://www.youtube.com/watch?v=k-SI1xHN0x8&list=RDQMOq0n4w7tt1Q&index=6) <br> [SVG Stroke Animation With CSS](https://youtu.be/wRqZSna9_Aw) <br> [Advanced svg path progress animation with Moveit](https://youtu.be/kCze-4ovte8) |
-| SVG | SVG Animation II | | **Modules:** <br> [SVG Tutorial: With CSS Animation](https://youtu.be/IM8eTD01UE8) <br> [Building an SVG Animation from Start to Finish](https://youtu.be/qA2DqKIjZ5I) <br> [MorphSVGPlugin: Advanced control over SVG shape tweens and morphs](https://youtu.be/Uxa9sdaeyKM) <br> [Create an Interactive Splat Animation in SVG](https://youtu.be/O6dc-sJm0Ho) <br> [SVG “Drawing On” Animation - CSS Experiments](https://youtu.be/YcM4bRxtLcs) <br> [Interactive SVG Animation with Greensock](https://youtu.be/YcM4bRxtLcs) |
-| SVG | | | **Modules:** <br> []() <br> []() |
-| SVG | | | **Modules:** <br> []() <br> []() |
-| SVG | []() | | |
-<br> []()
-### Moar Frontend Shit
-
-Here we finally dig in to JavaScript and learn how to make the web dynamic.
-
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
 | Coursework | [Fundamentals Part 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1) | | |
 | Project | Custom Modals | .75 hours | **Modules:** <br>[Custom Alert Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/-RLE2Q7OzME) <br> [Custom Confirm Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/TCL90kPID0A) <br> [Custom Prompt Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/qPXBjCgktbk) <br> [Click Outside Close Menu Box JavaScript CSS HTML Tutorial](https://youtu.be/DxWqBRqAGLo)|
 | Coursework | [Fundamentals Part 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2) | | |
@@ -69,7 +45,7 @@ Here we finally dig in to JavaScript and learn how to make the web dynamic.
 | Project | Working with files | .25 hours | **Modules:** <br> [Partial Print Document JavaScript Tutorial HTML div Content](https://youtu.be/UJAwNkhbYWM) <br> [Javascript Tutorial - Custom File Upload Button | HTML + CSS](https://youtu.be/T3PDgtliezo) |
 | Project | [Learn JavaScript By Building A Bookmarker Application](https://youtu.be/DIVfDZZeGxM) | .75 hours |  |
 
-### Front End Portfolio Projects
+## Front End II
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Project | [Let's JavaScript a a To-Do List App!](https://www.udemy.com/lets-javascript-beginners-coding-projects-in-javascript/) | 2 hours | |
@@ -86,42 +62,44 @@ Here we finally dig in to JavaScript and learn how to make the web dynamic.
 | Project | [Create a HTML5 Game from Scratch](https://www.udemy.com/create-a-html5-game-from-scratch/) | 5 hours | |
 | Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | |
 
-### More Frontend Gloryhole Bullshit
+## Frontend III
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| JS | Working with Audio | 1 hour |  | **Modules:** <br> [Make Music With Javascript Tutorial](https://youtu.be/8T4SCksjrQ4) <br> [Make a fun animated audio player with JavaScript and CSS3](https://youtu.be/ZTBekkqA2rM) |
-| JS | Working with Video | 1 hour |  | **Modules:** <br> [Part 1](https://youtu.be/V8_wEZD160g) <br> [Part 2](https://youtu.be/Nnlb6vwszl4) <br> [Part 3](https://youtu.be/KhvOFA9v_-Y) <br> [Part 4](https://youtu.be/2AI_gfMumrw) <br> [Part 5](https://youtu.be/BuaIDNu_pPg) <br> [Part 6](https://youtu.be/rIX7xSBPK08) |
 | Coursework | [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) | | |
 | JS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 3.75 hours | JS Module <br> DOM Module <br> Jquery Module |
 | Project | Fucking with the user, part 1 | .5 hours | **Modules:** <br> [Read Mouse Coordinates Position X and Y JavaScript Tutorial HTML CSS](https://youtu.be/8E6YJdSee9o) <br> [1. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/RPMVIbAuZHg) <br> [2. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/5V5Zi8Qgwwk) <br> [Javascript Tutorial : Textarea Counting and Limiting](https://youtu.be/12P1HoTvsvU) |
 | Project |  Fucking with the user, part 2 | .5 hours | **Modules:** <br> [How to Build a Javascript WYSIWYG Rich Text HTML Editor Textarea Replacement for Web Site Part 1](https://youtu.be/SSAQK4Nwkm4) <br> [How to Build a Javascript WYSIWYG Rich Text HTML Editor Textarea Replacement for Web Site Part 2](https://youtu.be/mysAB7NAjDk) |
 | Project | [JavaScript Number Guessing Game - JavaScript DOM](https://www.udemy.com/javascript-number-game/) | 1 hour | |
 | Coursework | [Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project) | | |
-
-
-### Even More Frontend JS Stupidity
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
 | Coursework | [Fundamentals Part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5) | | |
 | Project | Learn to code an API in JavaScript | 1.75 hours |  | **Modules:** <br> [Part 1](https://youtu.be/0SiC1DClaFg) <br> [Part 2](https://youtu.be/HsKN5wBODe0) <br> [Part 3](https://youtu.be/33SM6fQkVoM) |
 | JS | [GraphQL](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | 1.5 hours | |
 | JS | [Mighty JavaScript (Advanced)](https://www.udemy.com/intermediate-to-advanced-javascript-developer/) | 3 hours | |
 | JS | [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/advanced-and-object-oriented-javascript/)| 5.5 hours | |
 | JS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | | Javascript Module |
-| JS | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | Javascript in Detail Module |
+| Project | [Learn Web Development by Creating a Social Network](https://www.udemy.com/meteor-tutorial/) | 6.5 hours | |
 | CSS | [Mastering Basic CSS Selectors](https://www.udemy.com/mastering-basic-css-selectors/) | 3 hours | |
 | CSS | [Mastering CSS 3.0 Selectors](https://www.udemy.com/css3-selectors/) | 2 hours | |
-| CSS | [CSS Image filters - The modern web images color manipulation](https://www.udemy.com/super-awesome-images-with-css-image-filters/) | 1.5 hours | |
-| Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
-| Sass | [Sass Workflow](https://www.udemy.com/sass-workflow/) | 3 hours | |
-| Project | [Learn Web Development by Creating a Social Network](https://www.udemy.com/meteor-tutorial/) | 6.5 hours | |
-| Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
-| Project | [Learn to Make an Animated Image Gallery using HTML5](https://www.udemy.com/learn-to-make-an-animated-image-gallery-using-html5/) | 1 hour | |
+| CSS | [CSS Image filters - The modern web images color manipulation](https://www.udemy.com/super-awesome-images-with-css-image-filters/) | 1.5 hours | || Project | [Learn to Make an Animated Image Gallery using HTML5](https://www.udemy.com/learn-to-make-an-animated-image-gallery-using-html5/) | 1 hour | |
 | JS | [Start 3D GIS Web Development in JavaScript](https://www.udemy.com/start-3d-gis-web-development/) | .75 hours | |
 | Project | [Creating Secure Registration Form Using HTML, CSS And JS](https://www.udemy.com/creating-secure-registration-form-using-html-css-and-js/) | 3 hours | |
 
-## The Back End I
+## Interactivity
+| Topic | Course | Duration | Notes | 
+| ------ | ------- | ------ | ------- |
+
+| Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
+| Sass | [Sass Workflow](https://www.udemy.com/sass-workflow/) | 3 hours | |
+| Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
+|SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
+| SVG | A beginners guide to SVG | .5 hours | **Modules:** <br> [Part 1](https://youtu.be/ZJSCl6XEdP8) <br> [Part 2](https://youtu.be/9Y4P3FvZ5bg) |
+| SVG | SVG Animation I | 1.25 hours | **Modules:** <br> [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://youtu.be/XBdbgD2BaEI) <br> [SVG Stroke Animation: HTML & CSS](https://youtu.be/y0Ic8QcvyK8) <br> [SVG line drawing animation](https://www.youtube.com/watch?v=k-SI1xHN0x8&list=RDQMOq0n4w7tt1Q&index=6) <br> [SVG Stroke Animation With CSS](https://youtu.be/wRqZSna9_Aw) <br> [Advanced svg path progress animation with Moveit](https://youtu.be/kCze-4ovte8) |
+| SVG | SVG Animation II | | **Modules:** <br> [SVG Tutorial: With CSS Animation](https://youtu.be/IM8eTD01UE8) <br> [Building an SVG Animation from Start to Finish](https://youtu.be/qA2DqKIjZ5I) <br> [MorphSVGPlugin: Advanced control over SVG shape tweens and morphs](https://youtu.be/Uxa9sdaeyKM) <br> [Create an Interactive Splat Animation in SVG](https://youtu.be/O6dc-sJm0Ho) <br> [SVG “Drawing On” Animation - CSS Experiments](https://youtu.be/YcM4bRxtLcs) <br> [Interactive SVG Animation with Greensock](https://youtu.be/YcM4bRxtLcs) |
+| JS | Working with Audio | 1 hour |  | **Modules:** <br> [Make Music With Javascript Tutorial](https://youtu.be/8T4SCksjrQ4) <br> [Make a fun animated audio player with JavaScript and CSS3](https://youtu.be/ZTBekkqA2rM) |
+| JS | Working with Video | 1 hour |  | **Modules:** <br> [Part 1](https://youtu.be/V8_wEZD160g) <br> [Part 2](https://youtu.be/Nnlb6vwszl4) <br> [Part 3](https://youtu.be/KhvOFA9v_-Y) <br> [Part 4](https://youtu.be/2AI_gfMumrw) <br> [Part 5](https://youtu.be/BuaIDNu_pPg) <br> [Part 6](https://youtu.be/rIX7xSBPK08) |
+
+## Back End I
 
 Here you'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. 
 
@@ -131,7 +109,6 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Wordpress | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | Wordpress Module |
 | Wordpress | [PHP For WordPress Development](https://www.udemy.com/php-for-wordpress-development/) | | |
 | PHP | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | PHP Module |
-| PHP | [Web Development - Complete Fast Track Course (2019)](https://www.udemy.com/web-development-fast-track/) | | PHP in Detail Module |
 | PHP | [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/) | | |
 | PHP | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential PHP Module |
 | MySQL | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | | MySQL Module |
@@ -141,7 +118,7 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Project | [Generating PDF files with PHP](https://www.youtube.com/watch?v=MCKNMbLhlgA&list=PLfdtiltiRHWHl7VjZKor3q70FpXotfith&index=2&t=12s) | .75 hours | |
 | Project | [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/) | | |
 
-### The Back End II: The Return Home
+## Back End II
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
@@ -163,7 +140,7 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | | |
 | Project | [Try Django 1.9: Build a Blog](https://www.udemy.com/try-django/) | 20 hours | |
 
-## Web Development Frameworks I
+## Frameworks I
 
 You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-sounding development frameworks. In this section, you'll learn what a framework is, why we use them, and get acquainted with the ones we'll be covering in future courses.
 
@@ -182,7 +159,7 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 | Rails | [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/learn-rails/)| | | |
 | Coursework | [Project: Ruby on Rails](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) |  | |
 
-### Web Development Frameworks II: 'De ja vu II'
+## Frameworks II
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |

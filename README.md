@@ -84,7 +84,7 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
 | Sass | [Sass Workflow](https://www.udemy.com/sass-workflow/) | 3 hours | |
 | Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
-|SVG | (SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | |
+| SVG | [SVG basics for beginners - concepts explained with examples](https://www.udemy.com/svg-basics-for-beginners-concepts-explained-with-examples/) | 1.5 hours | |
 | SVG | A beginners guide to SVG | .5 hours | **Modules:** <br> [Part 1](https://youtu.be/ZJSCl6XEdP8) <br> [Part 2](https://youtu.be/9Y4P3FvZ5bg) |
 | SVG | SVG Animation I | 1.25 hours | **Modules:** <br> [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://youtu.be/XBdbgD2BaEI) <br> [SVG Stroke Animation: HTML & CSS](https://youtu.be/y0Ic8QcvyK8) <br> [SVG line drawing animation](https://www.youtube.com/watch?v=k-SI1xHN0x8&list=RDQMOq0n4w7tt1Q&index=6) <br> [SVG Stroke Animation With CSS](https://youtu.be/wRqZSna9_Aw) <br> [Advanced svg path progress animation with Moveit](https://youtu.be/kCze-4ovte8) |
 | SVG | SVG Animation II | | **Modules:** <br> [SVG Tutorial: With CSS Animation](https://youtu.be/IM8eTD01UE8) <br> [Building an SVG Animation from Start to Finish](https://youtu.be/qA2DqKIjZ5I) <br> [MorphSVGPlugin: Advanced control over SVG shape tweens and morphs](https://youtu.be/Uxa9sdaeyKM) <br> [Create an Interactive Splat Animation in SVG](https://youtu.be/O6dc-sJm0Ho) <br> [SVG “Drawing On” Animation - CSS Experiments](https://youtu.be/YcM4bRxtLcs) <br> [Interactive SVG Animation with Greensock](https://youtu.be/YcM4bRxtLcs) |
@@ -98,30 +98,25 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Coursework | [Introduction to the Back End](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-the-back-end) | hours | |
-| Wordpress | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | Wordpress Module |
-| Wordpress | [PHP For WordPress Development](https://www.udemy.com/php-for-wordpress-development/) | | |
-| PHP | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | PHP Module |
+| Wordpress | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | .75 hours | Wordpress Module |
+| Wordpress | [PHP For WordPress Development](https://www.udemy.com/php-for-wordpress-development/) | 1 hour | |
+| PHP | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | 2 hours | PHP Module |
 | PHP | [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/) | | |
 | PHP | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential PHP Module |
-| MySQL | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | | MySQL Module |
-| MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in phpMyAdmin Module Module |
-| MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in PHP Module |
-| MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | MySQL in PHP Module |
+| MySQL | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | 1.5 hours | MySQL Module |
+| MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | 1.5 hours | **Modules:** <br> MySQL in phpMyAdmin Module Module <br> MySQL in PHP Module |
 | Project | [Generating PDF files with PHP](https://www.youtube.com/watch?v=MCKNMbLhlgA&list=PLfdtiltiRHWHl7VjZKor3q70FpXotfith&index=2&t=12s) | .75 hours | |
-| Project | [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/) | | |
+| Project | [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/) | 1.5 hours | |
 
 ## Back End II
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| JQuery | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)  | | JQuery Module |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential JQuery & AJAX Module |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | JQuery effects & AJAX interaction |
-| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Online version & Security Considerations |
-| Project | [Building a Chat System in AJAX & PHP](https://www.udemy.com/chat-system-in-php-ajax/) | | |
+| AJAX | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | 3.5 hours | **Modules:** <br> Essential JQuery & AJAX Module <br> JQuery effects & AJAX interaction <br> Online version & Security Considerations |
+| Project | [Building a Chat System in AJAX & PHP](https://www.udemy.com/chat-system-in-php-ajax/) | 1 hours| |
 | Coursework | [Ruby Basics](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-basics) | | |
 | Coursework | [Project: Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) | | |
-| Scripting | [Master Regular Expressions from scratch - All languages](https://www.udemy.com/master-regular-expressions-from-scratch/) | | |
+| Scripting | [Master Regular Expressions from scratch - All languages](https://www.udemy.com/master-regular-expressions-from-scratch/) | 2 hours | |
 | Python | [Learn Python Programming for Absolute Beginners](https://www.udemy.com/learn-python-programming/) | 4 hours | |
 | Project | [Python 3 in 100 Minutes](https://www.udemy.com/python-3-in-100-minutes/) | 4.25 hours | |
 | Project | [Python 3: Building amazing Calculator and other GUI projects](https://www.udemy.com/python-learning/) | 3.25 hours | |
@@ -129,7 +124,7 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Lab | [Python PDF](https://www.youtube.com/watch?v=Ei0fL6j8DtI&list=PLaL2yxczKLcCoCXGAPcPU0rlTON4aO6BE&index=2&t=5s) | 3 hours |  |
 | Project | [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/) | 2.5 hours | |
 | Project | [Artificial Intelligence Bootcamp 44 projects Ivy League pro](https://www.udemy.com/artificial/) | 13.5 hours | |
-| Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | | |
+| Project | [Try Django 1.10: Create a URL Shortening Service](https://www.udemy.com/try-django-1-10/) | 5.5 hours | |
 | Project | [Try Django 1.9: Build a Blog](https://www.udemy.com/try-django/) | 20 hours | |
 
 ## Frameworks I
@@ -139,26 +134,24 @@ You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-so
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
 | Coursework | [Introduction to Frameworks](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-frameworks) |  | |
-| CSS | [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) | | |
-| Bootstrap | [Learn Bootstrap 4 by Example](https://www.udemy.com/learn-bootstrap-4-by-example/) | | |
-| Bootstrap | [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/) | | |
-| Bootstrap | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | | Bootstrap Module |
-| Project | [Code a Coming Soon Landing Page in Bootstrap 4/)[https://www.udemy.com/code-a-coming-soon-landing-page-in-bootstrap-4/) | | |
-| Project | [Bootstrap, HTML5 & CSS3: Create a Modern Youtube Homepage ](https://www.udemy.com/psd-to-html5css3-build-a-youtube-homepage-from-scratch/) | | |
-| Project | [Learn Bootstrap: Design a Custom Landing Page in Bootstrap 4](https://www.udemy.com/learnbootstrap/) | | |
-| Coursework | [Ruby on Rails Basics](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails-basics) |  | |
-| Rails | [Ruby on Rails a Beginners Guide](https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/) | | |
-| Rails | [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/learn-rails/)| | | |
+| CSS | [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) | 1.5 hours | |
+| Bootstrap | [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/) | 5 hours | |
+| Project | [Code a Coming Soon Landing Page in Bootstrap 4](https://www.udemy.com/code-a-coming-soon-landing-page-in-bootstrap-4/) | 2 hours | |
+| Project | [Bootstrap, HTML5 & CSS3: Create a Modern Youtube Homepage](https://www.udemy.com/psd-to-html5css3-build-a-youtube-homepage-from-scratch/) | 2 hours | |
+| Project | [Learn Bootstrap: Design a Custom Landing Page in Bootstrap 4](https://www.udemy.com/learnbootstrap/) | 1 hour | |
+| Coursework | [Ruby on Rails Basics](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails-basics) | | |
+| Rails | [Ruby on Rails a Beginners Guide](https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/) | 6.5 hours | |
+| Rails | [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/learn-rails/)| 2.5 hours | |
 | Coursework | [Project: Ruby on Rails](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) |  | |
 
 ## Frameworks II
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| TypeScript | [Getting Started with TypeScript // A Javascript Compiler](https://www.udemy.com/getting-started-with-typescript/) | |
+| TypeScript | [Getting Started with TypeScript // A Javascript Compiler](https://www.udemy.com/getting-started-with-typescript/) | 1 hour | |
 | Typescript | [Typescript with modern React](https://www.udemy.com/typescript-with-react-hooks-and-context/) | 3.5 hours | |
 | React | [React Fundamentals](https://www.udemy.com/react-fundamentals/) | 1 hour | |
-| Vue | [Vue.js Fast Crash Course](https://www.udemy.com/vuejs-fast-crash-course/) | | |
+| Vue | [Vue.js Fast Crash Course](https://www.udemy.com/vuejs-fast-crash-course/) | 2.5 hours | |
 | Vue | [The Ultimate Vue 2 Crash Course - Learn by Example](https://www.udemy.com/vue-2-crash-course/) | 1 hour | |
 | Angular | [Getting Started with Angular 2+](https://www.udemy.com/getting-started-with-angular-2/) | 2 hours | |
 | Angular | [Try AngularJS: Beginner's Guide to Front End Web Development](https://www.udemy.com/try-angularjs/) | 4.5hrs | |
@@ -173,9 +166,9 @@ So far, you've probably been working by yourself. Now it's time to learn how to 
 
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-| UX | [The World of Design Thinking](https://www.udemy.com/the-world-of-design-thinking/) | | |
-| UX | [Beyond Usability: Learn the User Research Toolkit](https://www.udemy.com/learn-the-user-research-toolkit/) | | |
-| UX | [UX Design Tutorial for Beginners (#1)](https://www.udemy.com/the-essential-uxui-designer-course/) | | |
+| UX | [The World of Design Thinking](https://www.udemy.com/the-world-of-design-thinking/) | 3 hours | |
+| UX | [Beyond Usability: Learn the User Research Toolkit](https://www.udemy.com/learn-the-user-research-toolkit/) | 1 hour | |
+| UX | [UX Design Tutorial for Beginners (#1)](https://www.udemy.com/the-essential-uxui-designer-course/) | 1 hour | |
 | Coursework | [Introduction to Pair Programming](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-pair-programming) | | |
 | Coursework | [Preparing to Remote Pair](https://www.theodinproject.com/courses/web-development-101/lessons/preparing-to-remote-pair) | | |
 | Coursework | [Project: Pairing Project](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project) 

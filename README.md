@@ -30,6 +30,8 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Coursework | [Developer Tools](https://www.theodinproject.com/courses/web-development-101/lessons/developer-tools) | | |
 | Coursework | [Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) | | |
 | Project | [Create Interactive Portfolio Grid using CSS and HTML](https://www.udemy.com/create-interactive-portfolio-grid-using-css-and-html/) | 1 hour | |
+| JS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | 3.5 hours | **Modules:** Javascript <br> JQuery|
+| Project | [Learn Web Development by Creating a Social Network](https://www.udemy.com/meteor-tutorial/) | 6.5 hours | |
 | Coursework | [Fundamentals Part 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1) | | |
 | Project | Custom Modals | .75 hours | **Modules:** <br>[Custom Alert Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/-RLE2Q7OzME) <br> [Custom Confirm Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/TCL90kPID0A) <br> [Custom Prompt Box Programming JavaScript CSS HTML Tutorial](https://youtu.be/qPXBjCgktbk) <br> [Click Outside Close Menu Box JavaScript CSS HTML Tutorial](https://youtu.be/DxWqBRqAGLo)|
 | Coursework | [Fundamentals Part 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2) | | |
@@ -52,20 +54,13 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Project | [Let's JavaScript a a Pomodoro App!](https://www.udemy.com/lets-javascript-coding-projects/) | 2.5 hours | |
 | Coursework | [Project: Calculator](https://www.theodinproject.com/courses/web-development-101/lessons/calculator) | | |
 | Project | [Let's JavaScript a a Calculator App!](https://www.udemy.com/lets-javascript-beginners-coding-projects/) | 2 hours | |
-| Project | [Cloning Amazon, Netflix & Spotify](https://www.udemy.com/learn-html-css-clone-amazon-netflix-spotify/) | |
-| Project | [Chrome Extensions : Develop 5 chrome extensions from scratch](https://www.udemy.com/chrome-extension-dev/) | |
-| Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | |
-| Project | [HTML5 Simple Game Programming Preparation](https://www.udemy.com/free-prep-for-html5-game-development/) | |
+| Project | [Cloning Amazon, Netflix & Spotify](https://www.udemy.com/learn-html-css-clone-amazon-netflix-spotify/) | 3 hours | |
+| Project | [Chrome Extensions : Develop 5 chrome extensions from scratch](https://www.udemy.com/chrome-extension-dev/) | 2 hours | |
+| Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | 2 hours | |
 | Project | [Intro to HTML5 Game Development](https://www.udemy.com/intro-to-html5-game-development/) | 3 hours | |
 | Project | [Making Games With Phaser 2.X] (https://www.udemy.com/making-games-with-phaser/)| 3.5 hours | |
 | Project | [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) | 2 hours | |
 | Project | [Create a HTML5 Game from Scratch](https://www.udemy.com/create-a-html5-game-from-scratch/) | 5 hours | |
-| Project | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/build-a-quiz-app-with-html-css-and-javascript/) | |
-
-## Frontend III
-
-| Topic | Course | Duration | Notes | 
-| ------ | ------- | ------ | ------- |
 | Coursework | [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) | | |
 | JS | [ZERO to HERO Python 3 FULL STACK MASTERCLASS](https://www.udemy.com/zero-to-pro-python-3-fullstack-data-bootcamp-45-ai-projects/) | 3.75 hours | JS Module <br> DOM Module <br> Jquery Module |
 | Project | Fucking with the user, part 1 | .5 hours | **Modules:** <br> [Read Mouse Coordinates Position X and Y JavaScript Tutorial HTML CSS](https://youtu.be/8E6YJdSee9o) <br> [1. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/RPMVIbAuZHg) <br> [2. Javascript Capture Keyboard Input Tutorial HTML Application Programming](https://youtu.be/5V5Zi8Qgwwk) <br> [Javascript Tutorial : Textarea Counting and Limiting](https://youtu.be/12P1HoTvsvU) |
@@ -73,12 +68,10 @@ In this section you'll spend a good deal of time getting familiar with the major
 | Project | [JavaScript Number Guessing Game - JavaScript DOM](https://www.udemy.com/javascript-number-game/) | 1 hour | |
 | Coursework | [Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project) | | |
 | Coursework | [Fundamentals Part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5) | | |
-| Project | Learn to code an API in JavaScript | 1.75 hours |  | **Modules:** <br> [Part 1](https://youtu.be/0SiC1DClaFg) <br> [Part 2](https://youtu.be/HsKN5wBODe0) <br> [Part 3](https://youtu.be/33SM6fQkVoM) |
+| Project | Learn to code an API in JavaScript | 1.75 hours | **Modules:** <br> [Part 1](https://youtu.be/0SiC1DClaFg) <br> [Part 2](https://youtu.be/HsKN5wBODe0) <br> [Part 3](https://youtu.be/33SM6fQkVoM) |
 | JS | [GraphQL](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | 1.5 hours | |
 | JS | [Mighty JavaScript (Advanced)](https://www.udemy.com/intermediate-to-advanced-javascript-developer/) | 3 hours | |
 | JS | [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/advanced-and-object-oriented-javascript/)| 5.5 hours | |
-| JS | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | | | Javascript Module |
-| Project | [Learn Web Development by Creating a Social Network](https://www.udemy.com/meteor-tutorial/) | 6.5 hours | |
 | CSS | [Mastering Basic CSS Selectors](https://www.udemy.com/mastering-basic-css-selectors/) | 3 hours | |
 | CSS | [Mastering CSS 3.0 Selectors](https://www.udemy.com/css3-selectors/) | 2 hours | |
 | CSS | [CSS Image filters - The modern web images color manipulation](https://www.udemy.com/super-awesome-images-with-css-image-filters/) | 1.5 hours | || Project | [Learn to Make an Animated Image Gallery using HTML5](https://www.udemy.com/learn-to-make-an-animated-image-gallery-using-html5/) | 1 hour | |
@@ -88,7 +81,6 @@ In this section you'll spend a good deal of time getting familiar with the major
 ## Interactivity
 | Topic | Course | Duration | Notes | 
 | ------ | ------- | ------ | ------- |
-
 | Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |
 | Sass | [Sass Workflow](https://www.udemy.com/sass-workflow/) | 3 hours | |
 | Sass | [Sass: From Beginner to Advanced](https://www.udemy.com/sass-from-beginner-to-advanced/) | 2 hours | |

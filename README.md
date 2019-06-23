@@ -101,8 +101,7 @@ Here you'll learn about the back end, where we'll demystify what goes on behind 
 | Wordpress | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | .75 hours | Wordpress Module |
 | Wordpress | [PHP For WordPress Development](https://www.udemy.com/php-for-wordpress-development/) | 1 hour | |
 | PHP | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/)\ | 2 hours | PHP Module |
-| PHP | [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/) | | |
-| PHP | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | | Essential PHP Module |
+| PHP | [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/) | 6.5 hours | |
 | MySQL | [The Essential Web Developer Course - Build 12 Websites](https://www.udemy.com/the-essential-web-developer-course/) | 1.5 hours | MySQL Module |
 | MySQL | [Richard Stibbard's "Ultimate Web Development Course"](https://www.udemy.com/the-ultimate-web-development-course/) | 1.5 hours | **Modules:** <br> MySQL in phpMyAdmin Module Module <br> MySQL in PHP Module |
 | Project | [Generating PDF files with PHP](https://www.youtube.com/watch?v=MCKNMbLhlgA&list=PLfdtiltiRHWHl7VjZKor3q70FpXotfith&index=2&t=12s) | .75 hours | |

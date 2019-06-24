@@ -1,4 +1,4 @@
-# animated-journey
+# Edumacation
 
 In total, there are 245.75 hours of non-coursework hours. This equates to roughly 10 hours of non-coursework hours per week over the next 6 months. The bulk of the non-project course hours are fairly redundant. They're mostly intended to provide an option to learn from, to possibly go over something that hasn't been explained before, or to provide another way of explaining a topic.
 

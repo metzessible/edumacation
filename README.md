@@ -1,8 +1,9 @@
 # Edumacation
 
 ## Lame Attempt at a Skip Link
-[Jump the Syllabus](https://github.com/metzessible/edumacation/wiki/Syllabus)
+[Jump to the Syllabus](https://github.com/metzessible/edumacation/wiki/Syllabus)
 
+## Introduction
 Here's my bastardized syllabus largely taken from [The Odin Project](https://www.theodinproject.com/) (TOP), a free online 'coding boot camp'. The coursework for TOP has been incorporated into the syllabus and I tried to reinforce their curriculum with helpful and free tutorials from either [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=aria) or Youtube. I tried my best to only include tutorials that do not require the need to use proprietary software, but since I haven't taken them yet, I'm not sure if this was successful (for example, I want to know how to create SVGs without using Adobe Illustrator). 
 
 ## Why Edumacation?

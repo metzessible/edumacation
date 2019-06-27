@@ -22,5 +22,5 @@ Almost all tags must be closed, but there are a few that are *self-closing tags*
 [Difference between `<i>` & `<emphasis>` and `<b>` & <strong>](http://html5doctor.com/i-b-em-strong-element/)
 
 ### HTML5 Structure
-![Structure of HTML5: Below the <header> at top of page, two columns below including an <article> within a <section> next to <aside> and the <footer> below all.](../img/building-structure.png)
+![Structure of HTML5: Below the <header> at top of page, two columns below including an <article> within a <section> next to <aside> and the <footer> below all.](https://raw.githubusercontent.com/metzessible/edumacation/master/projects/front-end-1/html-and-css/img/building-structure.png)
 
